@@ -8,11 +8,11 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 # IP ASSIGNMENT:
 
-<img width="1280" height="1006" alt="image" src="https://github.com/user-attachments/assets/7320ba19-c5a6-41d3-b77d-5ff6a4e2b14d" />
+<img width="1474" height="1521" alt="image" src="https://github.com/user-attachments/assets/817d8317-8330-40a4-8eed-8390bac4850b" />
 
 
 # NETWORK DIAGRAM:
-<img width="694" height="1280" alt="image" src="https://github.com/user-attachments/assets/85ad5dd0-d6f0-41cd-936e-20f3407c42e9" />
+<img width="1372" height="730" alt="image" src="https://github.com/user-attachments/assets/c64251b8-8e07-4190-8236-6bb40e2cbae5" />
 
 
 # PROCEDURE:
@@ -83,10 +83,10 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
+<img width="1600" height="1165" alt="image" src="https://github.com/user-attachments/assets/e000aed9-e58f-4659-a725-d98f4b51e6df" />
+<img width="1600" height="1446" alt="image" src="https://github.com/user-attachments/assets/cc8241d1-13c4-425d-b772-11a7e5932273" />
+<img width="1600" height="1364" alt="image" src="https://github.com/user-attachments/assets/b3cd8135-0f83-41e6-94df-e58f890bf47e" />
 
-<img width="1072" height="1279" alt="image" src="https://github.com/user-attachments/assets/a689e579-37be-41ef-815b-3a41f7273acd" />
-<img width="1280" height="837" alt="image" src="https://github.com/user-attachments/assets/1feb117f-45d9-43b5-9844-84fcd56ed3ee" />
-<img width="1280" height="819" alt="image" src="https://github.com/user-attachments/assets/f97b8a38-a21f-491a-a039-c7321fe14bac" />
 
 
 # RESULT:

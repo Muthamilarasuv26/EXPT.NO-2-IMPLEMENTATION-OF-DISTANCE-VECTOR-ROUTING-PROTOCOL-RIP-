@@ -7,12 +7,14 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # IP ASSIGNMENT:
+<img width="1363" height="1600" alt="WhatsApp Image 2026-09-22 at 5 19 42 PM" src="https://github.com/user-attachments/assets/7c02786d-6eb3-43cf-8664-a1f0770d7059" />
 
-<img width="1474" height="1521" alt="image" src="https://github.com/user-attachments/assets/817d8317-8330-40a4-8eed-8390bac4850b" />
+
 
 
 # NETWORK DIAGRAM:
-<img width="1372" height="730" alt="image" src="https://github.com/user-attachments/assets/c64251b8-8e07-4190-8236-6bb40e2cbae5" />
+
+<img width="1600" height="977" alt="WhatsApp Image 2026-09-22 at 5 20 11 PM" src="https://github.com/user-attachments/assets/4d3d7b1e-62b5-49b4-a588-55c4ac6b8889" />
 
 
 # PROCEDURE:
@@ -83,9 +85,8 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
-<img width="1600" height="1165" alt="image" src="https://github.com/user-attachments/assets/e000aed9-e58f-4659-a725-d98f4b51e6df" />
-<img width="1600" height="1446" alt="image" src="https://github.com/user-attachments/assets/cc8241d1-13c4-425d-b772-11a7e5932273" />
-<img width="1600" height="1364" alt="image" src="https://github.com/user-attachments/assets/b3cd8135-0f83-41e6-94df-e58f890bf47e" />
+<img width="1136" height="1600" alt="WhatsApp Image 2026-09-22 at 5 21 03 PM" src="https://github.com/user-attachments/assets/f383ab8e-a9e1-4b1e-bcca-e0bc0d73466e" />
+
 
 
 
